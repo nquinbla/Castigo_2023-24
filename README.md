@@ -1,6 +1,7 @@
 # Castigo_2023-24
-Para la puesta al día con IntelliJ y Github
-**LINJK**: https://github.com/nquinbla/Castigo_2023-24.git
+Para la puesta al día con IntelliJ y Github, los ejercicios los encontrará dentro de la rama "main" -> carpeta "src/main/java" -> los 10 ejercicios, enumerados del 1 al 10 de tal forma que siguen el orden del aviso de hoy. El link a continuación:
+
+**LINK**: https://github.com/nquinbla/Castigo_2023-24.git
 
 **[EJERCICIO 1]**
 
