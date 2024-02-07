@@ -20,5 +20,7 @@ public class Ejercicio_3 {
     public static void main(String[] args) {
         int[] multiplos = encontrarMultiplos(1, 100);
         int suma = sumarValores(multiplos);
+
+        System.out.println("La suma de los multiplos de 3 entre 1 y 100 es: " + suma);
     }
 }
