@@ -10,4 +10,15 @@ public class Ejercicio_3 {
         }
         return multiplos.stream().mapToInt(i -> i).toArray();
     }
+    public static int sumarValores(int[] values) {
+        int suma = 0;
+        for (int i = 0; i < values.length; i++) {
+            suma += values[i];
+        }
+        return suma;
+    }
+    public static void main(String[] args) {
+        int[] multiplos = encontrarMultiplos(1, 100);
+        int suma = sumarValores(multiplos);
+    }
 }
